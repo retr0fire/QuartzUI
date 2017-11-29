@@ -1,4 +1,0 @@
-C:\Users\corbrIsa\Documents\GitHub\QuartzUI\QuartzUI\QuartzUI\bin\Debug\QuartzUI.exe
-C:\Users\corbrIsa\Documents\GitHub\QuartzUI\QuartzUI\QuartzUI\bin\Debug\QuartzUI.pdb
-C:\Users\corbrIsa\Documents\GitHub\QuartzUI\QuartzUI\QuartzUI\obj\x86\Debug\QuartzUI.exe
-C:\Users\corbrIsa\Documents\GitHub\QuartzUI\QuartzUI\QuartzUI\obj\x86\Debug\QuartzUI.pdb
